@@ -25,17 +25,17 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-article, aside, details, figcaption, figure,
+/* article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;} */
 
-body {
+/* body {
 	line-height: 1;
-}
+} */
 
-ol, ul {
+/* ol, ul {
 	list-style: none;
-}
+} */
 
 blockquote, q {
 	quotes: none;
@@ -51,9 +51,9 @@ table {
 	border-spacing: 0;
 }
 
-body {
+/* body {
 	-webkit-text-size-adjust: none;
-}
+} */
 
 mark {
 	background-color: transparent;
@@ -82,14 +82,14 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
+	/* body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
-	}
+	} */
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
